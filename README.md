@@ -2,7 +2,7 @@
 
 Este es un ransomware de prueba para la materia de seguridad informática.
 
-El objetivo de este programa es completamente educativo para enteneder como funciona un software de este estilo y poder aplicar tacticas de proteccion frente a estos casos.
+> El objetivo de este programa es completamente educativo para enteneder como funciona un software de este estilo y poder aplicar tacticas de proteccion frente a estos casos.
 
 ## Como funciona
 
