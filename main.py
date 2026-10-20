@@ -11,9 +11,9 @@ from interface import Main
 
 #nonce = os.urandom(12)
 CURRENT_PATH = os.path.dirname(os.path.abspath(sys.argv[0]))
-TIME_TO_DELETE = 2 # Minutos
+TIME_TO_DELETE = 10 # Minutos
 
-routes = get_files("./ruta")
+routes = get_files("/home")
 
 fecha_objetivo = datetime.now() + timedelta(minutes=TIME_TO_DELETE)
 
